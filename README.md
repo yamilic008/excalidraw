@@ -1,2 +1,5 @@
-# excalidraw
-es una prueba de la integracion de escalidraw en React con Vite
+# Escalidraw
+
+Este es un ejemplo de Excalidraw integrado en Reacto con Vite
+
+
